@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+xRezXMLForm ${1:formName} = sessionBean.getXMLForm("${1:formName}");
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>xrForm</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.jsp</scope> -->
+</snippet>

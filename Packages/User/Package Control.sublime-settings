@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Handlebars",
+		"Indent XML",
+		"LiveReload",
+		"Package Control",
+		"Sass",
+		"SnippetMaker",
+		"Stylus",
+		"sublime-jslint",
+		"Theme - Soda",
+		"XSLT Snippets"
+	]
+}

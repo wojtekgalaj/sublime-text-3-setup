@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <content><![CDATA[
+<xsl:processing-instruction name="{$1}">
+	${1}
+</xsl:processing-instruction>
+]]></content>
+  <tabTrigger>processing</tabTrigger>
+  <scope>text.xml.xsl</scope>
+</snippet>

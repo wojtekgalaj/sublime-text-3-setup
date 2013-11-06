@@ -1,0 +1,10 @@
+[
+	{ "keys": ["ctrl+s"], "command": "save_all" },
+	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["alt+up"], "command": "jump_back" },
+	{ "keys": ["alt+down"], "command": "jump_forward" },
+	{ "keys": ["ctrl+j"], "command": "join_lines" },
+	{ "keys": ["ctrl+d"], "command": "xml_deentitize", "scope": "text.xml" }
+]
